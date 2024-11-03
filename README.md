@@ -10,4 +10,4 @@ Setup Instructions
 4. Change the narration text on `index.ts`
 5. Run the script `npm start`
 
-Free example here [parkour-narrator-ai.com]("https://www.parkour-narrator-ai.com/") (until I run out of elevenlabs credits)
+Free example here [parkour-narrator-ai.com](https://www.parkour-narrator-ai.com/) (until I run out of elevenlabs credits)
